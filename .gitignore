@@ -1,0 +1,9 @@
+.vscode/sftp.json
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/test
